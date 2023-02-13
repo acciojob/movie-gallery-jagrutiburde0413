@@ -21,4 +21,9 @@
 	width:100%;
 	padding:5px;
 }
+.row::after{
+	content:" ";
+	clear:both;
+	display:table;
+}
 /* Your CSS Code here. */
