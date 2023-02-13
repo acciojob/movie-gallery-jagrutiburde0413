@@ -3,7 +3,22 @@
 }
 .column{
 	float:left;
+	width:8.33%;
+	padding:5px;
+}
+.column1{
+	float:left;
+	width:16.66%;
+	padding:5px;
+}
+.column2{
+	float:left;
 	width:33.33%;
+	padding:5px;
+}
+.column3{
+	float:left;
+	width:100%;
 	padding:5px;
 }
 /* Your CSS Code here. */
